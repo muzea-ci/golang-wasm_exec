@@ -1,7 +1,9 @@
 {
   "name": "@woodenfish/golang-wasm_exec",
   "version": "0.0.0",
-  "main": "index.js",
+  "files": [
+    "dist"
+  ],
   "repository": "git@github.com:muzea-ci/golang-wasm_exec.git",
   "author": "MuYu <mr.muzea@gmail.com>",
   "license": "MIT"
